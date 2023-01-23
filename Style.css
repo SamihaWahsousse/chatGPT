@@ -1,0 +1,16 @@
+body{
+    background-color: #343541;
+    box-sizing: border-box;
+
+}
+
+.sidebar_container{
+/*height: 100vh;*/
+width: 25%;
+}
+
+.chatGpt_menu{
+    width: 75%;
+
+
+}
